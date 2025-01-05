@@ -18,11 +18,11 @@
 
 The Expense Tracker application is a full-stack project designed to manage expenses effectively. The project is built with the following technologies:
 
-## Backend: GoLang (for API development)
+1. Backend: GoLang (for API development)
 
-## Frontend: React (for user interface)
+2. Frontend: React (for user interface)
 
-## Database: PostgreSQL (to store user and expense data)
+3. Database: PostgreSQL (to store user and expense data)
 
 This application currently supports user registration and login functionality, along with database connectivity.
 
